@@ -1,0 +1,5 @@
+{
+  "name": "MDR UX Master",
+  "description": "An interactive quiz game to test your knowledge of UX design principles and the Medical Device Regulation (MDR) for digital products. Progress through chapters, earn points, and climb the leaderboard.",
+  "requestFramePermissions": []
+}
